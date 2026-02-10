@@ -10,3 +10,8 @@ The dataset used for this lab is the **Mobile Price Classification** dataset (sp
 * **Problem Type**: This is a **Classification** problem.
 * **Target Variable**: The intended target variable is **`price_range`** (Categorical: 0, 1, 2, or 3).
 * **Problem Statement**: The objective is to analyze mobile hardware specifications to predict which of the four price categories a device belongs to[cite: 2368, 2390]. This allows manufacturers to price their products competitively based on technical features.
+
+##  Files Included
+1. **`Lab2.ipynb`**: The Jupyter Notebook containing data loading, inspection (`df.info()`), and problem definition.
+2. **`submission.csv`**: The raw dataset used for training.
+3. **`Methodology DIagram.png`**: A flowchart illustrating the proposed ML pipeline.
