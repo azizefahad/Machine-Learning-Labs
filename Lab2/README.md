@@ -1,4 +1,4 @@
-# ARTI 308 - Lab 2: Machine Learning Problem Definition
+# Lab 2: Machine Learning Problem Definition
 
 ## Dataset Description
 The dataset selected for this lab is the **Mobile Price Classification** dataset. [cite_start]It contains **2,000 entries** with **21 features** [cite: 1183] describing various hardware specifications of mobile phones, such as:
