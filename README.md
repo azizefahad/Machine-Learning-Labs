@@ -51,4 +51,4 @@ This portfolio documents my journey through the Machine Learning curriculum.
 ## Contact
 
 **Abdulaziz Fahad Almutairi** Computer Science Student @ IAU  
-[Email](mailto:2240004584@iau.edu.sa)
+[Email](2240004584@iau.edu.sa)
