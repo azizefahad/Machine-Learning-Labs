@@ -55,6 +55,6 @@ We utilized **Principal Component Analysis** to reduce dimensionality while reta
 ---
 
 ## Files Included
-* `4- Data Quality Assessment & Preprocessing.ipynb`: The complete Python implementation.
+* `Lab4.ipynb`: The complete Python implementation.
 * `submission.csv`: The mobile phone specifications dataset.
 * `README.md`: Documentation of the lab workflow.
