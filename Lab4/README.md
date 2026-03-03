@@ -1,13 +1,13 @@
 # Lab 4: Data Quality Assessment & Preprocessing
 
-## 📱 Project Overview
+## Project Overview
 This lab focuses on the critical second step of the Machine Learning pipeline: **Preprocessing**. In real-world scenarios, data is often incomplete, noisy, or inconsistent. Using a mobile phone price dataset (`submission.csv`), we apply various cleaning and transformation techniques to prepare the data for predictive modeling.
 
 
 
 ---
 
-## 🛠️ Preprocessing Workflow
+## Preprocessing Workflow
 
 ### 1. Data Quality Assessment
 We performed an initial audit of the 2,000 records to identify structural or logical errors:
@@ -44,7 +44,7 @@ We utilized **Principal Component Analysis** to reduce dimensionality while reta
 
 ---
 
-## 🚀 Key Results
+## Key Results
 | Metric | Value |
 | :--- | :--- |
 | **Total Samples** | 2,000 |
@@ -54,7 +54,7 @@ We utilized **Principal Component Analysis** to reduce dimensionality while reta
 
 ---
 
-## 📂 Files Included
+## Files Included
 * `4- Data Quality Assessment & Preprocessing.ipynb`: The complete Python implementation.
 * `submission.csv`: The mobile phone specifications dataset.
 * `README.md`: Documentation of the lab workflow.
