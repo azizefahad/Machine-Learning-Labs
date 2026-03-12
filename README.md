@@ -45,6 +45,8 @@ This portfolio documents my journey through the Machine Learning curriculum.
 | **[Lab 2](./Lab2/)** | Defining the ML problem and inspecting the Mobile Price dataset. | ✅ Completed |
 | **[Lab 3](./Lab3/)** | Exploratory Data Analysis, cleaning, and visualization. | ✅ Completed |
 | **[Lab 4](./Lab4/)** | Data Quality Assessment, Imputation, Scaling, and PCA. | ✅ Completed |
+| **[Lab 5](./Lab5/)** | Feature Engineering (Classification). | ✅ Completed |
+
 
 ---
 
