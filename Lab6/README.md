@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Lab 6: Linear Regression
@@ -68,4 +67,3 @@ After completing a walkthrough using the USA Housing dataset, the same workflow 
 - **Matplotlib:** For plotting predictions and residuals.
 - **Seaborn:** For statistical visualizations (residual histogram).
 - **Scikit-learn:** For model training, train/test splitting, and evaluation metrics.
-```
