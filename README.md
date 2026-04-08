@@ -46,6 +46,8 @@ This portfolio documents my journey through the Machine Learning curriculum.
 | **[Lab 3](./Lab3/)** | Exploratory Data Analysis, cleaning, and visualization. | ✅ Completed |
 | **[Lab 4](./Lab4/)** | Data Quality Assessment, Imputation, Scaling, and PCA. | ✅ Completed |
 | **[Lab 5](./Lab5/)** | Feature Engineering (Classification). | ✅ Completed |
+| **[Lab 6](./Lab6/)** | Linear Regression | ✅ Completed |
+
 
 
 ---
