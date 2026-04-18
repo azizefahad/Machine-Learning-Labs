@@ -47,6 +47,8 @@ This portfolio documents my journey through the Machine Learning curriculum.
 | **[Lab 4](./Lab4/)** | Data Quality Assessment, Imputation, Scaling, and PCA. | ✅ Completed |
 | **[Lab 5](./Lab5/)** | Feature Engineering (Classification). | ✅ Completed |
 | **[Lab 6](./Lab6/)** | Linear Regression | ✅ Completed |
+| **[Lab 7](./Lab7/)** | Logistic Regression | ✅ Completed |
+
 
 
 
