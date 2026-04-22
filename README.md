@@ -48,6 +48,8 @@ This portfolio documents my journey through the Machine Learning curriculum.
 | **[Lab 5](./Lab5/)** | Feature Engineering (Classification). | ✅ Completed |
 | **[Lab 6](./Lab6/)** | Linear Regression | ✅ Completed |
 | **[Lab 7](./Lab7/)** | Logistic Regression | ✅ Completed |
+| **[Lab 8](./Lab8/)** | K-Nearest Neighbor| ✅ Completed |
+
 
 
 
