@@ -51,6 +51,8 @@ This portfolio documents my journey through the Machine Learning curriculum.
 | **[Lab 8](./Lab8/)** | K-Nearest Neighbor. | ✅ Completed |
 | **[Lab 9](./Lab9/)** | Random Forest Classification. | ✅ Completed |
 | **[Lab 10](./Lab10/)** | Support Vector Machines. | ✅ Completed |
+| **[Lab 11](./Lab11/)** | Customer Segmentation. | ✅ Completed |
+
 
 
  
